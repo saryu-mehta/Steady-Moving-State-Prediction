@@ -11,7 +11,7 @@ The motive of the project is to develop a method so that once the information fr
 
 2)A deterministic algorithm is applied based on minimum and maximum thresholds.Tested on the data and calculated its accurcay.But the accuracy score is not satisfactory.
 
-3)A Random Forest model was further deployed which gave the maximum and satisfactory accuracy.
+3)A Random Forest model was further deployed in which the hyperparameter tuning was used and gave the maximum and satisfactory accuracy.
 
 
 #### OUTPUTS
